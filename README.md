@@ -11,15 +11,20 @@ I personally believe that this repo will be help for c++ lover and communication
 
 ## Table of contents
 
-1. BPSK
-2. BFSK
-3. QPSK
-4. MPSK
-5. MQAM (4,8,16)
-6. Hamming distance based decoder
-7. Syndrome based decoder
+1. [BPSK](https://github.com/mkmishra2000/Modulation_Schemes_in_CPP/tree/main/BPSK)
+2. [BFSK](https://github.com/mkmishra2000/Modulation_Schemes_in_CPP/tree/main/BFSK)
+3. [QPSK](https://github.com/mkmishra2000/Modulation_Schemes_in_CPP/tree/main/QPSK)
+4. [MPSK](https://github.com/mkmishra2000/Modulation_Schemes_in_CPP/tree/main/MPSK)
+5. [MQAM](https://github.com/mkmishra2000/Modulation_Schemes_in_CPP/tree/main/QAM) (4,8,16)
+6. [Hamming distance based decoder](https://github.com/mkmishra2000/Modulation_Schemes_in_CPP/tree/main/Ham%20distance%20decoder)
+7. [Syndrome based decoder](https://github.com/mkmishra2000/Modulation_Schemes_in_CPP/tree/main/Syndrome%20table%20decoder)
 
-## Few 
+## Few points to be noted
+In each content, data is stored in the .dat file format. After that, one can use any platform like MATLAB, OCTAVE or [gnuplot](http://www.gnuplot.info/) for plotting the data or generating the plots. In this repo, gnuplot has been choosen as plotting tool. 
+
+### plotting demo in gnuplot
+
+
 
 ## License
 MIT

@@ -1,0 +1,1 @@
+# Syndrome table based decoder
