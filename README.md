@@ -24,6 +24,11 @@ In each content, data is stored in the .dat file format. After that, one can use
 
 ### plotting demo in gnuplot
 
+![Gnuplot demo](https://github.com/mkmishra2000/Modulation_Schemes_in_CPP/blob/main/Images/demoGnuplot.png)
+After this, output is following plot
+
+![Demo result](https://github.com/mkmishra2000/Modulation_Schemes_in_CPP/blob/main/Images/DemoResults.png)
+
 
 
 ## License
