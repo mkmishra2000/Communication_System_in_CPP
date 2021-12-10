@@ -1,4 +1,4 @@
-# Modulation_Schemes_in_CPP
+# Communication_System_in_CPP
 These repository contains BPSK, BFSK, QPSK, MPSK, (4,8,16)-QAM, hamming distance based decoder and syndrome based decoder in cpp. For plotting the BER vs SNR plot use gnuplot.
 
 ## Why this repositary exist?
