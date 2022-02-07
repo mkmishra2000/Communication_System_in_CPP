@@ -18,6 +18,8 @@ I personally believe that this repo will be help for c++ lover and communication
 5. [MQAM](https://github.com/mkmishra2000/Modulation_Schemes_in_CPP/tree/main/QAM) (4,8,16)
 6. [Hamming distance based decoder](https://github.com/mkmishra2000/Modulation_Schemes_in_CPP/tree/main/Ham%20distance%20decoder)
 7. [Syndrome based decoder](https://github.com/mkmishra2000/Modulation_Schemes_in_CPP/tree/main/Syndrome%20table%20decoder)
+8. [Rayleigh fadding channel]()
+9. [Selection gain Diversity]()
 
 ## Few points to be noted
 In each content, data is stored in the .dat file format. After that, one can use any platform like MATLAB, OCTAVE or [gnuplot](http://www.gnuplot.info/) for plotting the data or generating the plots. In this repo, gnuplot has been choosen as plotting tool. 
