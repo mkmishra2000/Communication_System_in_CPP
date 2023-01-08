@@ -20,9 +20,9 @@ I personally believe that this repo will be help for c++ lover and communication
 7. [Syndrome based decoder](https://github.com/mkmishra2000/Modulation_Schemes_in_CPP/tree/main/Syndrome%20table%20decoder)
 8. [Rayleigh fadding channel](https://github.com/mkmishra2000/Communication_System_in_CPP/tree/main/Rayleigh%20Fadding%20Channel)
 9. [Selection gain Diversity](https://github.com/mkmishra2000/Communication_System_in_CPP/tree/main/Selection%20Gain%20DIversity)
-10.[Equal gain Diversity](https://github.com/mkmishra2000/Communication_System_in_CPP/tree/main/EqualGainDiversity)
-11.[Maximum gain Diversity](https://github.com/mkmishra2000/Communication_System_in_CPP/tree/main/MRC)
-12.[Alamouti code](https://github.com/mkmishra2000/Communication_System_in_CPP/tree/main/AlamoutiCodes)
+10. [Equal gain Diversity](https://github.com/mkmishra2000/Communication_System_in_CPP/tree/main/EqualGainDiversity)
+11. [Maximum gain Diversity](https://github.com/mkmishra2000/Communication_System_in_CPP/tree/main/MRC)
+12. [Alamouti code](https://github.com/mkmishra2000/Communication_System_in_CPP/tree/main/AlamoutiCodes)
 
 ## Few points to be noted
 In each content, data is stored in the .dat file format. After that, one can use any platform like MATLAB, OCTAVE or [gnuplot](http://www.gnuplot.info/) for plotting the data or generating the plots. In this repo, gnuplot has been choosen as plotting tool. 
